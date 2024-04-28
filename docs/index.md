@@ -2,11 +2,11 @@
 
 [My TODO App](https://draakierules.github.io/Todo/)
 
-## Collection of TODO categories
-Full collection of all my TODO lists.
+# Overview of TODO categories
+Full overview of all my TODO lists.
 
-### [VRT](https://draakierules.github.io/Todo/vrt/)
-Collection of VRT MAX TODO lists.
+## [VRT](https://draakierules.github.io/Todo/vrt/)
+Overview of VRT MAX TODO lists.
 
-#### [VRT - Paasvakantie](https://draakierules.github.io/Todo/vrt/vrt-paasvakantie)
+### [VRT - Paasvakantie](https://draakierules.github.io/Todo/vrt/vrt-paasvakantie)
 Newly added content on VRT MAX for the easter holidays.
