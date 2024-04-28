@@ -1,4 +1,4 @@
-# My TODO List
+# My TODO App
 
 ## Collection of TODO categories
 Full collection of all my TODO lists.
